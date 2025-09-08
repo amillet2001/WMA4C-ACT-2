@@ -1,5 +1,6 @@
-1. Clone the repo
-2. Create a branch
-3. Create 1 file and include information about you save it as YOURNAME.txt
-4. Push the branch to the remote repo
-5. Create a pull request
+1. Clean the credentials
+2. Clone the repo
+3. Create a branch
+4. Create 1 file and include information about you save it as YOURNAME.txt
+5. Push the branch to the remote repo
+6. Create a pull request
